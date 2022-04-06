@@ -1,0 +1,41 @@
+.box{
+    height: calc(1000px/12*4 - 24px);
+    background-color: white;
+}
+.box-2{
+    height: calc(1000px/12*1 - 24px) ;
+    background-color: rgb(255, 255, 255);
+}
+.section-1{
+    background-color: rgb(67, 136, 204);
+}
+.section-2{
+    background-color: rgb(254, 224, 94);
+}
+.section-3{
+    background-color: rgb(255, 66, 66);
+}
+.section-4{
+    background-color: rgb(0, 212, 134);
+}
+.section-5{
+    background-color: rgb(176, 31, 229);
+}
+.section-plus{
+    background-color: rgb(251, 132, 189);
+}
+.space-between{
+    justify-content: space-between;
+}
+.align-item-center{
+    align-items: center;
+}
+.align-end{
+    align-self: flex-end;
+}
+.align-self-center{
+    align-self: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
